@@ -137,7 +137,7 @@ This function controls rotate by timeline
 `Jumps` Example
 
 | Params | Type | Description  |
-| ----------- | ----------- |
+| ----------- | ----------- |----------- |
 | Key |  Float |  Speed
 | Value -> Jump Start |  Animation |  Jump start animation
 | Value -> Jump Land |  Animation |  Jump landing animation
